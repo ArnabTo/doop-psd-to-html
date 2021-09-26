@@ -1,0 +1,166 @@
+
+@media only screen and (max-width:500px) {
+  
+	body{
+		width: 100%;
+	}
+	nav.nav_bar {
+		position: absolute;
+		top: -2rem;
+		left: 0rem;
+		margin-left: 0rem;
+		margin-right: 0rem;
+	}
+	
+	.logo {
+		width: 100%;
+		position: absolute;
+		top: 2rem;
+	}
+	.men_items.col-7 {
+		position: absolute;
+		top: 4rem;
+		display: grid;
+		background: #f4fafec7;
+		width: 8rem;
+		left: 23rem;
+		z-index: 1;
+		filter: blur(0px);
+		display: none;
+	}
+	.n_icon {
+		display: block;
+	}
+	.n_icon I {
+		font-size: 2rem;
+		position: absolute;
+		left: 28rem;
+		top: 1rem;
+		cursor: pointer;
+	}
+	button.ContactBtn {
+		position: absolute;
+		left: 18rem;
+		top: 1rem;
+	}
+	.show{
+		display: grid !important;
+	}
+	.landing_Sec {
+		width: 100%;
+	}
+	.txt {
+		width: 50%;
+    margin-left: 0rem;
+	}
+	img.shape {
+		width: 20rem;
+	}
+	.img {
+		position: absolute;
+		left: -39rem;
+		top: 10rem;
+	}
+	.a-dshape.col-3 img {
+		z-index: -1;
+	}
+	.sercices.aos-init.aos-animate {
+		width: 100%;
+	}
+	img.design-img {
+		width: 5rem;
+	}
+	.txt1 {
+		width: 100%;
+	}
+	.s1.aos-init.aos-animate {
+		position: absolute;
+		top: 10rem;
+		left: 5rem;
+	}
+	.aboutUs {
+		top: 95rem;
+	}
+	.about-desc.col-3.col-sm-12 {
+		margin-left: 0;
+	}
+	.about-logo.aos-init.aos-animate {
+		position: absolute;
+		top: 72rem;
+		left: 1rem;
+	}
+	.work-div {
+		position: absolute;
+		top: 105rem;
+		width: 100%;
+	}
+	.workdesc.col-1 {
+		left: -14rem;
+		top: 2rem;
+		position: absolute;
+	}
+	.work-img img {
+		width: 100%;
+	}
+	.works.row-3 {
+		left: 0;
+		width: 100%;
+	}
+	.news {
+		top: 190rem;
+	}
+	.news-box {
+		display: block;
+	}
+	.contact-section {
+		margin-top: 76rem;
+		width: 100%;
+		left: 0;
+	}
+	.b1, .b2, .b3 {
+		width: 14rem;
+		margin: 5px;
+	}
+	.b4, .b5, .b6 {
+		width: 14rem;
+		margin: 5px;
+	}
+	.works1.row-3 {
+		left: 14.5rem;
+		top: 37rem;
+	}
+	.news-shape.col-1 {
+		left: 19rem;
+	}
+	.news-arow.col-1 {
+		display: none;
+	}
+	.works-arow.col-1 {
+		display: none;
+	}
+	.workdescl.col-1 {
+		top: 77rem;
+		left: 11rem;
+	}
+	.news-desk.col-3 {
+		left: 10rem;}
+		.input-section {
+			margin-left: 3rem;
+		}
+		.input-section input {
+			width: 12rem;
+		}
+		button.send-button {
+			margin-left: 0;
+			width: 10rem;
+			position: absolute;
+			top: 8.5rem;
+			left: 17rem;
+		}
+		
+	
+		footer.last {
+			margin-top: 70rem;
+			width: 100%;
+		}
+}
